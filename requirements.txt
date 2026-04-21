@@ -1,0 +1,8 @@
+streamlit
+numpy
+astropy
+scipy
+matplotlib
+pandas
+plotly
+pillow
